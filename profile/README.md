@@ -7,4 +7,4 @@ I specialise in web, app and software development following 20+ years of best pr
 - App development (for both native iOS/Android & Shopify apps)
 - Engineering management, team building and effective leadership
 
-Got a project idea? Get in touch ➡️ andrew.gatenby.dev/contact
+Got a project idea? Get in touch ➡️ [andrew.gatenby.dev/contact](https://andrew.gatenby.dev/contact)
